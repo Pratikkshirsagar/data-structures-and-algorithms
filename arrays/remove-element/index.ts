@@ -1,3 +1,6 @@
+// Question
+// https://leetcode.com/problems/remove-element
+
 function removeElement(nums: number[], val: number): number {
   let x = 0;
 

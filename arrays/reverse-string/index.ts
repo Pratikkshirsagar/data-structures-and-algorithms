@@ -1,3 +1,6 @@
+// Question
+// https://leetcode.com/problems/reverse-string
+
 function reverseString(s: string[]): void {
   const length = s.length;
   const halflength = Math.floor(length / 2);
