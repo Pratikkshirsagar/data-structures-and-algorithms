@@ -8,5 +8,5 @@ function linearSearch(arr: number[], target: number) {
 }
 
 const nums = [1, 5, 6, 2, 8];
-const result = linearSearch(nums, 2);
+let result1 = linearSearch(nums, 2);
 console.log(result);
